@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <body>
+    
+        <h1>Travel to South Korea</h1>
+        <style>
+        h1{
+            background-color:black;
+            color:white;
+        }
+        .first-reason{
+            background-color:red;
+            color:white;
+        }
+        .second-paragraph{
+            background-color:blue;
+            color:white;
+        }
+        .last-messages{
+            background-color:pink;
+        }
+        
+        </style>
+        
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-seed.png" alt="my next going place">
+        
+        <h2 class="first-reason">why I want to visit there</h2>
+        <p>Because I'm interested in <em>Korean beauty</em> and an actor called<strong>Park Soe-joon</strong>. There are many good products that I like to try and don't see in japan. And of corse I like makeup products as well!!<br>
+            I barely have a favorite celebrity but since I watched <em>"Itaewon class" </em>which is my favorite and other movies and dreams, I'm in to love with him. People who don't know about him, here is his picture. He's tall and has a good body. I've never met him but I see his personality is great.lol </p>
+            <img scr="https://metro.style/people/digital-covers/korean-star-park-seo-joon-extraodinary-life-bys/27453" alt="my favorite one">
+            
+            <h2 class="second-paragraph">What I want to do there</h2>
+            <p>I have <em>two things for that</em>. I want to get some skincare products that I've been curious about. A city called  Myeong-dong is known for beauty city so I'm gonna try to go there.<br>Second one is eating foods. I love eating and like Korean foods although I'm not good at a spicy food. There are a lot of good foods in Korea especially what I'm looking forward to eating is<em><strong> bulgogi </strong>which means Korean barbecue.</em></p>
+            
+            <p class="last-messages">It's hard to travel in this situation but I hope someday I get to go travel to my favorite country. Stay safe guys!!
+            </p>
+
+
+                
+    </body>
+</html>

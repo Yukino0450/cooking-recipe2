@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+    <!---my favorite salad--->   
+        <h1>Yukino's Recipe Book</h1>
+        
+        <h2>Contents:Quinoa Salad</h2>
+        
+        <ol>
+            <li><a href="#Recipe #1">Recipe #1</a></li>
+        </ol>
+        
+        <h2 id="Recipe #1">Recipe #1</h2>
+        
+        <ul>
+            <li>Time:10min</li>
+            <li>Serves:4 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tr>
+                <td>quinoa</td>
+                <td>1 cup</td>
+            </tr>
+            <tr>
+                <td>vesitables</td>
+                <td>as you like</td>
+            </tr>
+            <tr>
+                <td>seasoning</td>
+                <td>as you like</td>
+            </tr>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Do something.
+</p>
+        
+    <p><em>Source: <a href="https://www.inspiredtaste.net/38096/quinoa-salad-recipe/">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
